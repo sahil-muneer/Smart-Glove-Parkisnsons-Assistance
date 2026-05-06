@@ -36,7 +36,7 @@ The ESP32 processes this data and sends corrective signals to servo motors, whic
 ---
 
 ## 📸 Project Demo
-(Add your images/videos here later)
+![smart glove](project.jpg)
 
 ---
 
